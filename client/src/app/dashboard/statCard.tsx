@@ -1,6 +1,6 @@
 import { LucideIcon } from "lucide-react";
 import React from "react";
-
+import { JSX } from "react";
 type StatDetail = {
   title: string;
   amount: string;
